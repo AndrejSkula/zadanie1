@@ -1,1 +1,2 @@
 Analyticky nastroj: testy o strednej hodnote
+Anotacia zaverecnej prace
