@@ -1,2 +1,3 @@
 Analyticky nastroj: testy o strednej hodnote
 Anotacia zaverecnej prace
+Rok obhajoby: 2021
